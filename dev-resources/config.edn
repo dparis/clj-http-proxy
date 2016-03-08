@@ -1,0 +1,1 @@
+{:global {:logging-config "./dev-resources/logback-dev.xml"}}
